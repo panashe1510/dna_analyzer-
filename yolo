@@ -1,0 +1,6 @@
+def greet(first-name, last-name):
+    print(f'hi there')
+    print('Welcome aboard')
+
+
+greet("Panashe", "Chipakwe")
