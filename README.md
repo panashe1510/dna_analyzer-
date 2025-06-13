@@ -22,6 +22,6 @@ bash
 pip install biopython pandas matplotlib
 
 ## Contents 
-Read me 
-dna_analyzer.py
-rcsb_pdb_6BY7.fasta and sequence.fasta (fasta formated dna sequences )
+-Read me 
+-dna_analyzer.py
+-rcsb_pdb_6BY7.fasta and sequence.fasta (fasta formated dna sequences )
