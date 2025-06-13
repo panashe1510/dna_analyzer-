@@ -18,5 +18,10 @@ This Python-based DNA Sequence Analyzer processes and analyzes **FASTA-formatted
 ## Installation & Dependencies
 Ensure you have **Python 3.7+** installed, then install required dependencies:
 
-```bash
+bash
 pip install biopython pandas matplotlib
+
+## Contents 
+Read me 
+dna_analyzer.py
+rcsb_pdb_6BY7.fasta and sequence.fasta (fasta formated dna sequences )
